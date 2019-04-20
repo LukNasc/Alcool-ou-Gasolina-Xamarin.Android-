@@ -24,3 +24,11 @@ logo a baixo uma mensagem irá aparecer informando qual o melhor combustível.
 
 Screenshots
 ============
+<img src="https://github.com/LukNasc/Alcool-ou-Gasolina-Xamarin.Android-/blob/master/Capturar.PNG">  
+(Tela Principal)  
+
+Contatos
+--------
+__Instagram__ - @blessed7170  
+__Linkedin__ - [Lucas Nascimento](https://www.linkedin.com/in/lucasnascimento7170)  
+__Facebook__ - Lucas Nascimento  
