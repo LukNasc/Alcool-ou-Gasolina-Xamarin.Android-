@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Second Project in Xamarin Android", "Second Project in Xamarin Android\Second Project in Xamarin Android.csproj", "{48231ED3-CE6A-4265-9936-1E01EED9CEA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48231ED3-CE6A-4265-9936-1E01EED9CEA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48231ED3-CE6A-4265-9936-1E01EED9CEA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48231ED3-CE6A-4265-9936-1E01EED9CEA3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{48231ED3-CE6A-4265-9936-1E01EED9CEA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48231ED3-CE6A-4265-9936-1E01EED9CEA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48231ED3-CE6A-4265-9936-1E01EED9CEA3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D28AC045-F089-4737-81D7-40E52379FEF5}
+	EndGlobalSection
+EndGlobal
